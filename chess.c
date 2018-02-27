@@ -2,7 +2,7 @@
 # include <conio.h>
 main()
 { 
-	printf("8 L H E K Q E H L \n7 S S S S S S S S \n6 \n5 \n4 \n3 \n2 S S S S S S S S \n1 L H E K Q E H L \n
+	printf("8 R N B K Q B N R \n7 P P P P P P P P \n6 \n5 \n4 \n3 \n2 P P P P P P P P \n1 R N B K Q B N R \n
   a b c d e f g h");
 getch();
 } 
