@@ -1,8 +1,15 @@
-# include <stdio.h>
-# include <conio.h>
-main()
-{ 
-	printf("8 R N B K Q B N R \n7 P P P P P P P P \n6 \n5 \n4 \n3 \n2 P P P P P P P P \n1 R N B K Q B N R \n
-  a b c d e f g h");
-getch();
-} 
+#include <stdio.h>
+
+int main()
+{
+	printf("\
+	8 R K B K Q B K R\n\
+	7 P P P P P P P P\n\
+	6 \n\
+	5 \n\
+	4 \n\
+	3 \n\
+	2 P P P P P P P P\n\
+	1 R K B K Q B K R\n");
+	return 0;
+}
