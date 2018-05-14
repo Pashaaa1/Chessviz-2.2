@@ -12,9 +12,9 @@ CTEST(Syntax, CorrectSyntaxCheck) {
 }
 
 CTEST(Syntax, IncorrectSyntaxCheck) {
-    int result = check_syntax("nb1-a3",0,0);
-    int expected = 0;
-    ASSERT_EQUAL(expected,result);
+     int result = check_syntax("nb1-a3",0,0);
+     int expected = 0;
+     ASSERT_EQUAL(expected,result);
 }
 
 CTEST(PawnMove, Correct) {
